@@ -1,0 +1,6 @@
+[user]
+	name = sawankshrma
+	email = thesawan47@gmail.com
+	signingkey = 2042C1ABB020D6A4
+[commit]
+	gpgsign = true
